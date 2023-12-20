@@ -1,0 +1,153 @@
+﻿id_pays,Country,date,valeur
+1,USA,2005,195.267
+1,USA,2006,201.558
+1,USA,2007,207.344
+1,USA,2008,215.254
+1,USA,2009,214.565
+1,USA,2010,218.076
+1,USA,2011,224.923
+1,USA,2012,229.586
+1,USA,2013,232.952
+1,USA,2014,236.715
+1,USA,2015,237.002
+1,USA,2016,240.005
+1,USA,2017,245.121
+1,USA,2018,251.1
+1,USA,2019,255.652
+1,USA,2020,258.851
+1,USA,2021,270.971
+1,USA,2022,292.613
+1,USA,2023,304.564
+2,Japan,2005,95.214
+2,Japan,2006,95.458
+2,Japan,2007,95.502
+2,Japan,2008,96.823
+2,Japan,2009,95.534
+2,Japan,2010,94.825
+2,Japan,2011,94.562
+2,Japan,2012,94.516
+2,Japan,2013,94.829
+2,Japan,2014,97.445
+2,Japan,2015,98.223
+2,Japan,2016,98.102
+2,Japan,2017,98.579
+2,Japan,2018,99.554
+2,Japan,2019,100.02
+2,Japan,2020,99.994
+2,Japan,2021,99.759
+2,Japan,2022,102.251
+2,Japan,2023,105.537
+3,Germany,2005,85.458
+3,Germany,2006,86.975
+3,Germany,2007,88.95
+3,Germany,2008,91.4
+3,Germany,2009,91.625
+3,Germany,2010,92.65
+3,Germany,2011,94.95
+3,Germany,2012,97.0
+3,Germany,2013,98.558
+3,Germany,2014,99.317
+3,Germany,2015,99.992
+3,Germany,2016,100.358
+3,Germany,2017,102.067
+3,Germany,2018,104.042
+3,Germany,2019,105.45
+3,Germany,2020,105.842
+3,Germany,2021,109.242
+3,Germany,2022,118.708
+3,Germany,2023,126.216
+4,China,2005,75.176
+4,China,2006,76.413
+4,China,2007,80.095
+4,China,2008,84.827
+4,China,2009,84.211
+4,China,2010,86.885
+4,China,2011,91.693
+4,China,2012,94.086
+4,China,2013,96.502
+4,China,2014,98.482
+4,China,2015,100.0
+4,China,2016,102.123
+4,China,2017,103.676
+4,China,2018,105.672
+4,China,2019,108.739
+4,China,2020,111.443
+4,China,2021,112.393
+4,China,2022,114.504
+4,China,2023,115.258
+5,Russian Federation,2005,40.553
+5,Russian Federation,2006,44.473
+5,Russian Federation,2007,48.479
+5,Russian Federation,2008,55.32
+5,Russian Federation,2009,61.763
+5,Russian Federation,2010,65.994
+5,Russian Federation,2011,71.564
+5,Russian Federation,2012,75.196
+5,Russian Federation,2013,80.274
+5,Russian Federation,2014,86.554
+5,Russian Federation,2015,100.0
+5,Russian Federation,2016,107.042
+5,Russian Federation,2017,110.985
+5,Russian Federation,2018,114.18
+5,Russian Federation,2019,119.284
+5,Russian Federation,2020,123.318
+5,Russian Federation,2021,131.573
+5,Russian Federation,2022,149.687
+5,Russian Federation,2023,157.587
+6,Morocco,2005,83.5
+6,Morocco,2006,86.2
+6,Morocco,2007,87.9
+6,Morocco,2008,91.2
+6,Morocco,2009,92.115
+6,Morocco,2010,92.979
+6,Morocco,2011,93.697
+6,Morocco,2012,94.487
+6,Morocco,2013,96.013
+6,Morocco,2014,96.393
+6,Morocco,2015,97.772
+6,Morocco,2016,99.267
+6,Morocco,2017,100.0
+6,Morocco,2018,101.6
+6,Morocco,2019,101.8
+6,Morocco,2020,102.5
+6,Morocco,2021,103.9
+6,Morocco,2022,110.8
+6,Morocco,2023,117.782
+7,Saudi Arabia,2005,68.727
+7,Saudi Arabia,2006,70.035
+7,Saudi Arabia,2007,73.52
+7,Saudi Arabia,2008,78.02
+7,Saudi Arabia,2009,81.345
+7,Saudi Arabia,2010,84.353
+7,Saudi Arabia,2011,87.512
+7,Saudi Arabia,2012,90.02
+7,Saudi Arabia,2013,93.198
+7,Saudi Arabia,2014,95.282
+7,Saudi Arabia,2015,96.431
+7,Saudi Arabia,2016,98.426
+7,Saudi Arabia,2017,97.601
+7,Saudi Arabia,2018,100.0
+7,Saudi Arabia,2019,97.907
+7,Saudi Arabia,2020,101.28
+7,Saudi Arabia,2021,104.383
+7,Saudi Arabia,2022,106.965
+7,Saudi Arabia,2023,109.61
+8,Ukraine,2005,15.719
+8,Ukraine,2006,17.785
+8,Ukraine,2007,19.633
+8,Ukraine,2008,24.741
+8,Ukraine,2009,28.495
+8,Ukraine,2010,31.171
+8,Ukraine,2011,33.086
+8,Ukraine,2012,33.554
+8,Ukraine,2013,33.689
+8,Ukraine,2014,37.905
+8,Ukraine,2015,56.053
+8,Ukraine,2016,64.214
+8,Ukraine,2017,73.835
+8,Ukraine,2018,81.322
+8,Ukraine,2019,87.112
+8,Ukraine,2020,90.779
+8,Ukraine,2021,98.842
+8,Ukraine,2022,118.352
+8,Ukraine,2023,139.539

@@ -1,0 +1,17 @@
+﻿id_pays,Country,date,valeur
+1,United States,2019,83.6
+1,United States,2020,84.0
+2,Japan,2019,78.0
+2,Japan,2020,78.0
+3,Germany,2019,79.3
+3,Germany,2020,79.7
+4,China,2019,74.0
+4,China,2020,77.9
+5,Russian Federation,2019,77.4
+5,Russian Federation,2020,78.2
+6,Morocco,2019,71.7
+6,Morocco,2020,73.4
+7,Saudi Arabia,2019,63.8
+7,Saudi Arabia,2020,71.6
+8,Ukraine,2019,69.1
+8,Ukraine,2020,70.2
